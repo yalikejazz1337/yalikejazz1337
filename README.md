@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Almish. I'm an aspiring developer. I love<br>making things with code and learning new things. I also <br>love soccer, cubing and gaming.<br><br>Working On: Personal Portfolio<br>I'm currently learning: React.js<br>Ask me about: Rubik's Cubing<br>Fun Fact: I love developing games!
+Hi! I'm Almish. I'm an aspiring developer. I love<br>making things with code and learning new things. I also <br>love soccer, cubing and gaming.<br><br>Working On: Personal Portfolio<br>I'm currently learning: discord.js<br>Ask me about: Rubik's Cubing<br>Fun Fact: I love developing games!
 
 
 ## 🌐 Socials:
