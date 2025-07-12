@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a big discord bot, designed to do everything.<br>👯 I’m looking to collaborate on front end/UI/UX design.<br>🤝 I’m looking for help with UI/UX.<br>🌱 I’m currently learning discord.js<br>💬 Ask me about Rubik's cubes.<br>⚡ Fun fact: 7 + 7 = 14
+🔭 I’m currently working on a recipe sharing app.<br>👯 I’m looking to collaborate on front end/UI/UX design.<br>🤝 I’m looking for help with UI/UX.<br>🌱 I’m currently learning how to make websites look nice and be responsive.<br>💬 Ask me about Rubik's cubes.<br>⚡ Fun fact: I have spent wayyy to much time platinuming video games.
 
 
 ## 🌐 Socials:
